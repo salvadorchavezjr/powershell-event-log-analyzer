@@ -1,0 +1,4 @@
+Reports/
+*.csv
+*.log
+*backup.txt
